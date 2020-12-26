@@ -1,6 +1,6 @@
 # Vencimentos de Contratos de Dólar - B3
 
-### Ao abrir o projeto, clicar em CTRL + F9 para executar o scrypt e gerar o PDF.
+### Ao abrir o projeto, clicar em CTRL + F9 para executar o script e gerar o PDF.
 
 O script é um web crawler em que consulta no site da B3 (http://www.b3.com.br/pt_br/) em busca das séries autorizadas e quais são seus respectivos strykes, fazendo uma comparação com a quantidade de opções que tem aberta para cada contrato. 
 
